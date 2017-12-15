@@ -1,0 +1,180 @@
+
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans:700,300');
+        .normal {
+            font-family: "Open Sans", sans-serif;
+            font-weight: 300;
+            font-size: 20px;
+        }
+        
+        .top-text .normal {
+            color: white;
+        }
+        /* mobile version */
+        
+        body.enable-mobile {
+            padding: 0;
+        }
+        
+        .silex-pages {
+            display: none;
+        }
+        /*  */
+        
+        .heading1 {
+            text-shadow: 2px -2px 5px rgba(0, 0, 0, 0.75);
+            letter-spacing: -3px;
+            font-size: 150px;
+            font-weight: 700;
+            line-height: 150px;
+            margin-bottom: 0;
+            text-transform: uppercase;
+            text-rendering: optimizelegibility;
+            color: #1ABC9C;
+        }
+        
+        .heading2 {
+            font-size: 36px;
+            font-weight: 300;
+            letter-spacing: -1;
+            text-rendering: optimizelegibility;
+            text-transform: uppercase;
+        }
+        
+        .heading3 {
+            font-size: 26px;
+            font-weight: 300;
+            text-rendering: optimizelegibility;
+            text-transform: uppercase;
+            color: #666666;
+        }
+        
+        .go-down {
+            cursor: pointer;
+        }
+        
+        body .top-pic {
+            left: 0;
+            right: 0;
+            width: initial;
+            width: auto;
+        }
+        
+        .arrow .normal {
+            font-size: 110px;
+            line-height: 15px;
+            color: white;
+        }
+        
+        .middle-text .normal {
+            color: white;
+        }
+        
+        .button {
+            color: white;
+            line-height: 35px;
+        }
+        
+        .button.page-link-active {
+            background-color: #FC6F5C;
+        }
+        
+        .col>div {
+            columns: 3;
+            column-gap: 50px;
+            -moz-columns: 2;
+            -moz-column-gap: 50px;
+            -webkit-columns: 3;
+            -webkit-column-gap: 50px;
+            text-align: justify;
+        }
+    
+        .body-initial {
+            background-color: rgb(255, 255, 255);
+        }
+        
+        .silex-id-1489143154958-1 {
+            top: 5px;
+            left: 5px;
+            background-image: url('../assets/104896358-GettyImages-891494080.600x400.jpg');
+            background-position: center center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-color: rgba(51, 51, 51, 1);
+        }
+        
+        .silex-id-1489143154957-0 {
+            min-height: 718px;
+            background-color: transparent;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1489143154957-0 {
+                top: 0px;
+                left: 12px;
+                width: 445px;
+                min-height: 960px;
+            }
+        }
+        
+        .silex-id-1440798151836-0 {
+            width: 100px;
+            top: 583px;
+            left: 450px;
+            background-color: rgba(26, 188, 156, 0.447059);
+            border-top-left-radius: 50px;
+            border-top-right-radius: 50px;
+            border-bottom-right-radius: 50px;
+            border-bottom-left-radius: 50px;
+            border-top-width: 1px;
+            border-right-width: 1px;
+            border-bottom-width: 1px;
+            border-left-width: 1px;
+            border-top-style: solid;
+            border-right-style: solid;
+            border-bottom-style: solid;
+            border-left-style: solid;
+            border-top-color: rgb(0, 0, 0);
+            border-right-color: rgb(0, 0, 0);
+            border-bottom-color: rgb(0, 0, 0);
+            border-left-color: rgb(0, 0, 0);
+            min-height: 100px;
+        }
+        
+        .silex-id-1440793860642-0 {
+            width: 960px;
+            top: -114px;
+            left: -3px;
+            background-color: transparent;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+            border-top-width: 0px;
+            border-right-width: 0px;
+            border-bottom-width: 0px;
+            border-left-width: 0px;
+            border-top-style: solid;
+            border-right-style: solid;
+            border-bottom-style: solid;
+            border-left-style: solid;
+            min-height: 394px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1440793860642-0 {
+                top: 75px;
+                left: 11px;
+                width: 423px;
+                min-height: 558px;
+            }
+        }
+        
+        .silex-id-1513342859782-0 {
+            width: 185px;
+            min-height: 70px;
+            top: 664px;
+            left: 818px;
+        }
+    
